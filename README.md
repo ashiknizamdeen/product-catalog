@@ -17,7 +17,7 @@ A modern, responsive product catalog built with Next.js and Tailwind CSS.
 
 ## 📱 Live Demo
 
-[View Live Demo]([https://your-deployed-app-url.vercel.app](https://product-catalog-rho-drab.vercel.app/))
+[View Live Demo](https://product-catalog-rho-drab.vercel.app/)
 
 ## 🏃‍♂️ Getting Started
 
