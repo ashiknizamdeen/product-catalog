@@ -77,7 +77,7 @@ export default function ProductCatalog() {
   useEffect(() => {
     setProducts(staticProducts);
     setFilteredProducts(staticProducts);
-
+    //Extract categories using Constructor with mapping to create unique category list
     const uniqueCategories = [
       ...new Set(staticProducts.map((product) => product.category)),
     ];
