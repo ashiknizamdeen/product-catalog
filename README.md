@@ -2,6 +2,12 @@
 
 A modern, responsive product catalog built with Next.js and Tailwind CSS.
 
+![Screenshot](./assets/screenshot.png)
+
+## 📱 Live Demo
+
+[Check out Live Demo](https://product-catalog-rho-drab.vercel.app/)
+
 ## 🚀 Features
 
 - **Category Filtering**: Filter products by Electronics, Clothing, Appliances, and Home
@@ -14,10 +20,6 @@ A modern, responsive product catalog built with Next.js and Tailwind CSS.
 - **Next.js 14** - React framework
 - **Tailwind CSS** - Utility-first CSS framework
 - **React Hooks** - useState and useEffect for state management
-
-## 📱 Live Demo
-
-[Check out Live Demo](https://product-catalog-rho-drab.vercel.app/)
 
 ## 🏃‍♂️ Getting Started
 
