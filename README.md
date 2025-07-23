@@ -33,3 +33,5 @@ A modern, responsive product catalog built with Next.js and Tailwind CSS.
 ```bash
 git clone https://github.com/ashiknizamdeen/product-catalog.git
 cd product-catalog
+
+**Made with ❤️ by Ashik**
